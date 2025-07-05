@@ -5,8 +5,8 @@ Project_1
 
 # I created this repository as part of my journey into *Web Development* with **Emily Kay**.
 
-## My goals:
-- Use GitHub
+## My goals for today:
+- Sign up on GitHub
 - Create my first repository
 - Learn Markdown
 
